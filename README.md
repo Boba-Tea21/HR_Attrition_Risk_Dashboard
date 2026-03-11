@@ -36,4 +36,5 @@ Model performance
 An AUC of 0.98 means the model can almost perfectly distinguish between employees who will leave and those who will stay. The model was trained on a class-balanced dataset using upsampling to hangle natural imablance between employees who stay (~84%) and those who leave (~16%). 
 
 Key Insights
+
 Analysis reveals that attrition risk is driven by a combination of workload, compensation, and engagement factors. Overtime is the strongest element predictor of attrition, followed by low montly income. Notetably, top performers carry higher attrition risk than average performers. Together these findings point to three priority retention levers: competitive compensation, overtime management, and targeted engagement programs for high performers. 
